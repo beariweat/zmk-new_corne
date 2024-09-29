@@ -40,7 +40,7 @@ layers:
   - {t: ., s: '>'}
   - $$mdi:apple-keyboard-option$$
   - RIGHT WIN
-  - MUTE
+  - $$mdi:volume-off$$
   - Function
   - Symbol
   - {t: '$$mdi:keyboard-space$$', h: Number_and_action}
